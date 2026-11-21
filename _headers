@@ -1,0 +1,6 @@
+/index.html
+  Cache-Control: public, max-age=300, must-revalidate
+  X-Content-Type-Options: nosniff
+
+/hot-update.json
+  Cache-Control: no-cache, max-age=0
